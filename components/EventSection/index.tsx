@@ -17,7 +17,7 @@ const EventSection = () => {
         <div className="flex flex-wrap justify-center gap-x-10" data-aos="fade-down" data-aos-delay="1400">
           <EventCard
             title="Akad Nikah"
-            date="30 April 2023"
+            date="30 April 2025"
             time="08.00 - Selesai"
             place="Bertempat di Kediaman Mempelai Wanita"
             location="Perumahan Nusantara Blok B8 No.34, Sukabumi, Bandar Lampung"
