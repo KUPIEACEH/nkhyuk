@@ -15,7 +15,7 @@ const Home: NextPage = () => {
             <h1 className="text-[64px] font-bold text-zinc-800 leading-tight">
               Buat Undangan <br /> Lebih Mudah
             </h1>
-            <Link href="/dhawy-kamu" className="btn btn-primary mt-6">
+            <Link href="/ali-zahra" className="btn btn-primary mt-6">
               <AiOutlineArrowRight />
               <span className="ml-2">Mulai Sekarang</span>
             </Link>
